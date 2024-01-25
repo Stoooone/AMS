@@ -27,8 +27,7 @@ struct Person
 // 设计通讯录结构体
 struct Addressbooks
 {
-	// 统计通讯录条数
-
+	
 	// person结构体数组
 	struct Person abs[];
 };
