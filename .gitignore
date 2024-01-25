@@ -1,37 +1,55 @@
-AMS.vcxproj
-AMS.vcxproj.filters
-AMS.vcxproj.user
-x64/
-.vs/
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Visual Studio 编译输出
+bin/
+obj/
 *.exe
-*.out
-*.app
+*.dll
+*.pdb
+*.ilk
+*.aps
+*.lib
+*.idb
+*.ipdb
+*.iobj
+*.log
+*.tlog
+*.manifest
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Tt]est[Rr]esults/
+
+# Visual Studio 代码分析文件
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+
+# Visual Studio 项目文件
+*.vcproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj.*.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.scc
+*.opendb
+
+# Visual Studio 编辑器配置
+[Bb]ackup*/
+_UpgradeReport_Files/
+*.[Pp]ublish.xml
+*.dbmdl
+[Tt]est[Rr]esult[Dd]etail.xml
+[Dd]ebug*/
+[Rr]elease*/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 编辑器自动生成的文件夹
+.vscode/
+.vs/
