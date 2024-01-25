@@ -27,7 +27,7 @@ struct Person
 // 设计通讯录结构体
 struct Addressbooks
 {
-
+	
 };
 // 3.1 添加联系人
 void addContact(struct Person* ab, int len)
@@ -107,6 +107,15 @@ void showContact(struct Person* ab, int len)
 		}
 	}
 }
+
+// 3.3 删除联系人
+
+// 3.4 查找联系人
+
+// 3.5 修改联系人
+
+// 3.6 清空联系人
+
 int main()
 {
 	// 2、创建联系人数组（长度1000）
