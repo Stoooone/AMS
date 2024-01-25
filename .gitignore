@@ -1,4 +1,4 @@
-# Visual Studio ±àÒëÊä³ö
+ï»¿# Visual Studio ç¼–è¯‘è¾“å‡º
 bin/
 obj/
 *.exe
@@ -20,13 +20,13 @@ x64/
 x86/
 [Tt]est[Rr]esults/
 
-# Visual Studio ´úÂë·ÖÎöÎÄ¼ş
+# Visual Studio ä»£ç åˆ†ææ–‡ä»¶
 *.suo
 *.ncb
 *.sdf
 *.opensdf
 
-# Visual Studio ÏîÄ¿ÎÄ¼ş
+# Visual Studio é¡¹ç›®æ–‡ä»¶
 *.vcproj
 *.vcxproj
 *.vcxproj.filters
@@ -39,7 +39,7 @@ x86/
 *.scc
 *.opendb
 
-# Visual Studio ±à¼­Æ÷ÅäÖÃ
+# Visual Studio ç¼–è¾‘å™¨é…ç½®
 [Bb]ackup*/
 _UpgradeReport_Files/
 *.[Pp]ublish.xml
@@ -50,6 +50,6 @@ _UpgradeReport_Files/
 [Ll]og/
 [Ll]ogs/
 
-# Visual Studio ±à¼­Æ÷×Ô¶¯Éú³ÉµÄÎÄ¼ş¼Ğ
+# Visual Studio ç¼–è¾‘å™¨è‡ªåŠ¨ç”Ÿæˆçš„æ–‡ä»¶å¤¹
 .vscode/
 .vs/
