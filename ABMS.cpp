@@ -29,7 +29,7 @@ struct Addressbooks
 {
 	
 	// person结构体数组
-	struct Person abs[];
+	//struct Person abs[];
 };
 // 3.1 添加联系人
 void addContact(struct Person* ab, int len)
