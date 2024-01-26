@@ -1,4 +1,77 @@
-﻿# Visual Studio 编译输出
+﻿# 忽略编译生成的文件  
+*.o  
+*.obj  
+*.exe  
+*.dll  
+*.lib  
+*.a  
+*.so  
+*.dylib  
+*.pdb  
+*.ilk  
+*.idb  
+*.ico  
+*.manifest  
+*.pch  
+*.gch  
+*.pdb  
+*.ipch  
+*.su  
+*.suo  
+*.exp  
+*.map  
+*.d  
+*.gcno  
+*.gcda  
+  
+# 忽略VS Code配置和缓存文件  
+.vscode/  
+*.code-workspace  
+  
+# 忽略构建目录  
+build/  
+dist/  
+  
+# 忽略系统生成的文件  
+.DS_Store  
+Thumbs.db  
+  
+# 忽略日志文件  
+*.log  
+  
+# 忽略临时文件  
+*.tmp  
+*.swp  
+*.swo  
+*.bak  
+*.~*  
+  
+# 忽略备份文件  
+*.orig  
+*.rej  
+  
+# 忽略个人配置文件  
+.clang-format  
+.clang-tidy  
+  
+# 忽略锁定文件  
+*.lock  
+  
+# 忽略其他IDE或编辑器生成的文件  
+*.swp  
+*.swo  
+*.idea/  
+*.iml  
+*.classpath  
+*.project  
+*.cproject  
+*.workspace  
+*.tags  
+  
+# 忽略敏感信息文件  
+*.env  
+*.ini
+# Visual Studio 编译输出
 bin/
 obj/
 *.exe
