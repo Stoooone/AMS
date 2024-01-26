@@ -31,16 +31,10 @@ struct Person
 // 设计通讯录结构体
 struct Addressbooks
 {
-<<<<<<< HEAD
-	
-	// person结构体数组
-	//struct Person abs[];
-=======
 	// Person结构体数组
 	struct Person personArray[MAX];
 	// 数组中个联系人个数
 	int m_Size = 0;
->>>>>>> f5b4f2bb551cb8062ee39ccdea2c7dd88ad81703
 };
 // 3.1 添加联系人
 void addPerson(Addressbooks * abs)
